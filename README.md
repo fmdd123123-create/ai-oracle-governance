@@ -157,4 +157,4 @@ MIT
 ## Contact
 
 - **Project**: [NEOscript](https://ark.honeyhughub.world/oracle/)
-- **Email**: nathan@honeyhughub.world
+- **Email**: info@honeyhughub.world
