@@ -1,0 +1,15 @@
+{
+  "name": "agent-governor-sdk",
+  "version": "0.1.0",
+  "description": "SDK for AI agents to participate in on-chain DeFi governance via AgentGovernor consensus",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmdd123123-create/ai-oracle-governance"
+  },
+  "keywords": ["defi", "ai", "agent", "governance", "oracle", "dodo", "pmm"],
+  "peerDependencies": {
+    "ethers": "^6.0.0"
+  }
+}
