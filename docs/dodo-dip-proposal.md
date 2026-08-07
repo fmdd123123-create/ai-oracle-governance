@@ -183,7 +183,7 @@ But first: prove it works. One pool. 30 days. Open data.
 - AI agent infrastructure + DeFi governance research
 - Built: AgentGovernor, agent-governor-sdk, ChainPilot integration
 - Contact: info@honeyhughub.world
-- Web: https://ark.honeyhughub.world
+- Web: https://ark.honeyhughub.world/oracle
 
 ## TL;DR
 
