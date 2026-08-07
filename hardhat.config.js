@@ -19,6 +19,11 @@ module.exports = {
       accounts: process.env.DEPLOYER_KEY ? [process.env.DEPLOYER_KEY] : [],
       chainId: 11155111,
     },
+    "bsc-testnet": {
+      url: "https://bsc-testnet-rpc.publicnode.com",
+      accounts: process.env.DEPLOYER_KEY ? [process.env.DEPLOYER_KEY] : [],
+      chainId: 97,
+    },
     hardhat: {
       chainId: 31337,
     }

@@ -1,0 +1,27 @@
+{
+  "network": "eth-sepolia",
+  "chainId": 11155111,
+  "timestamp": "2026-08-07T12:24:56.029Z",
+  "contracts": {
+    "MockDPPOracle": "0x31A8d8f3747867343cBf766bd5EcbDBAde8d9311",
+    "AgentGovernor": "0x1b6ef505619a8bdd34D67E0F3b39e685B251d4eF"
+  },
+  "agents": [
+    "0x2c0824fb49B52f65cD60899c9fbd917BDbbcd048",
+    "0xDE38dCd5299b86271433496CdC351E8a6b73a20b",
+    "0xd792a5c13262Cf799169EFFa90338E4A29f1386f",
+    "0x3e170166749c5FDd2B69156e4C816d3EF83026Ef"
+  ],
+  "agentKeys": [
+    "0xf4ce0d9c614361f94493b8050e2a2e548bb25bdb1c0184c4e9e172e09c5d06ac",
+    "0xd5426d6556934a704eee9909a325aaf052f16fc16e3761c55b48aa32d31327dd",
+    "0x78b5fef0a23d5199037b1da6d0972d28306e5bb44b089fb98b8fa4ba372a230d",
+    "0x43449f547a23f51884714bd43e4a3efe917e9ed6a0f6b3d2fa722e8dfa02b179"
+  ],
+  "cycle": {
+    "proposalId": "0",
+    "newI": "1907.0",
+    "newK": "0.45",
+    "newFee": "0.0025"
+  }
+}
