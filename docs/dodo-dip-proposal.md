@@ -161,7 +161,7 @@ Everything is public and auditable:
 
 - **GitHub**: https://github.com/fmdd123123-create/ai-oracle-governance
 - **SDK**: `npm install github:fmdd123123-create/ai-oracle-governance`
-- **Project page**: https://ark.honeyhughub.world/oracle/
+- **Live Demo**: https://ark.honeyhughub.world/oracle
 - **License**: MIT
 
 ## Future Direction (Post-Experiment)
