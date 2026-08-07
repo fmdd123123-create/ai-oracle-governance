@@ -1,0 +1,19 @@
+{
+  "name": "ai-pmm-phase2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network base-sepolia",
+    "agent": "node scripts/agent-node.js"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.0"
+  }
+}
