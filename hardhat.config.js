@@ -14,6 +14,11 @@ module.exports = {
       accounts: process.env.DEPLOYER_KEY ? [process.env.DEPLOYER_KEY] : [],
       chainId: 84532,
     },
+    "eth-sepolia": {
+      url: "https://ethereum-sepolia-rpc.publicnode.com",
+      accounts: process.env.DEPLOYER_KEY ? [process.env.DEPLOYER_KEY] : [],
+      chainId: 11155111,
+    },
     hardhat: {
       chainId: 31337,
     }
