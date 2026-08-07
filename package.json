@@ -1,7 +1,8 @@
 {
-  "name": "ai-pmm-phase2",
+  "name": "agent-governor-sdk",
   "version": "0.1.0",
-  "private": true,
+  "description": "SDK for AI agents to participate in on-chain DeFi governance via AgentGovernor consensus",
+  "main": "sdk/index.js",
   "scripts": {
     "compile": "npx hardhat compile",
     "deploy": "npx hardhat run scripts/deploy.js --network base-sepolia",
@@ -15,5 +16,11 @@
   "dependencies": {
     "ethers": "^6.13.0",
     "dotenv": "^16.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmdd123123-create/ai-oracle-governance"
+  },
+  "keywords": ["defi", "ai", "agent", "governance", "oracle", "dodo", "pmm"],
+  "license": "MIT"
 }
