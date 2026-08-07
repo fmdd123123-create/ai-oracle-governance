@@ -1,0 +1,22 @@
+[
+  {
+    "role": "PriceOracle",
+    "address": "0xb59615b1e9559e39a44DE08D3370DE07025539ED",
+    "privateKey": "0x596c40234c77a2d3fec40607047269052a2abb97f5042fd1d3308d8e15bed59d"
+  },
+  {
+    "role": "VolatilitySensor",
+    "address": "0x755017e5eE741118d00dCb6c0b4d094C760151eb",
+    "privateKey": "0x1cc8a7e1e61f12336cd1d2ee23c90ec7c368572323a819e6511b9dd972f9ee77"
+  },
+  {
+    "role": "FeeOptimizer",
+    "address": "0x3A56452944619A2B2a674E8f2a8c49103420fa73",
+    "privateKey": "0x5d89fa7d3f8e8cdd03b42643ebbe20b21b1d64d48405a47be1aad0c40d86d6f2"
+  },
+  {
+    "role": "ConsensusAggregator",
+    "address": "0xbAab42B5c422cF503F5e861aE24253336aF176D5",
+    "privateKey": "0x93bd0b22655aeed2d5f8fb446478af78de1a63170a7c5bb9ce38690a711ebba1"
+  }
+]
