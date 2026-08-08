@@ -2,3 +2,5 @@ node_modules/
 cache/
 artifacts/
 .env
+deployments/*-agents.json
+*.enc
